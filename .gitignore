@@ -1,0 +1,13 @@
+data/
+logs/
+checkpoints/
+*.pth
+*.ckpt
+__pycache__/
+*.pyc
+.DS_Store
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.gif

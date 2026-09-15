@@ -1,0 +1,1010 @@
+[
+  {
+    "split": "val_seen",
+    "scene_id": "r1Q1Z4BcV1o",
+    "episode_id": 7,
+    "instruction": "Turn around and then proceed to your left.  Enter large room that looks like a lobby.  Head left towards stairway.  Then take another left into large dining hall. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "7y3sRwLe3Va",
+    "episode_id": 25,
+    "instruction": "Turn around and walk towards the table with the plant on it.  Turn to the right and walk into the living room and stand just behind the couch and wait. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "E9uDoFAP3SH",
+    "episode_id": 29,
+    "instruction": "Turn around and go down the entranceway, heading toward the staircase. Turn to your left and walk past the staircase to the open door way. Stop near the front of the doorway to the hall. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "D7N2EKCX4Sj",
+    "episode_id": 39,
+    "instruction": "Turn around, go past the bed, out the door and to the right.  Go into the next door on the right.  You'll see a snowman quilt on the bed.  Wait right there. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "mJXqzFtmKg4",
+    "episode_id": 49,
+    "instruction": "Walk passed the kitchen table. Turn around the table and walk passed the counter with bar stools. Walk down the hall and stop near the bathroom entrance. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "uNb9QFRL6hY",
+    "episode_id": 57,
+    "instruction": "Turn around.  Walk down the hall, past the stairs, past the chair.  Stop right there.  Wait. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "VLzqgDo317F",
+    "episode_id": 77,
+    "instruction": "Turn around. Walk past the left side of the vanity. Walk into the room with the cordoned rail. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "2n8kARJN3HM",
+    "episode_id": 111,
+    "instruction": "Turn around and exit the study area. Walk across the hall towards the white stone circular item. Walk towards the mirror and turn left on the hallway. Wait there. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "8WUmhLawc2A",
+    "episode_id": 117,
+    "instruction": "Turn around and walk towards the sofas. Turn left and walk past the first archway. Turn slightly left and walk past the second archway to the left. Wait by the table. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "JeFG25nYj2p",
+    "episode_id": 132,
+    "instruction": "Turn around.  Walk out of the room, turn to the right and walk through the doorway.  Turn to the left and go through a small hallway, into a bedroom.  Stop right there. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "r1Q1Z4BcV1o",
+    "episode_id": 141,
+    "instruction": "Turn around and go pasr wooden  doorway, turn to the left and go down a hallway.  Go past a bar on the right.  Then go on to the patio, through the big double doors.  Wait there. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "gTV8FGcVJC9",
+    "episode_id": 163,
+    "instruction": "Turn around and walk towards the bedroom. Enter the bedroom and walk around the bed. Walk out of the bedroom and continue walking through the hallway. Stop in front of the bathroom door. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "jh4fc5c5qoQ",
+    "episode_id": 166,
+    "instruction": "Turn around walking across the kitchen area. Exit the kitchen area via the black door. Turn right and walk across the second doorway and wait there outside. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "E9uDoFAP3SH",
+    "episode_id": 195,
+    "instruction": "turn around and enter the lobby. go to the right and through the door. stop right past the door. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "XcA2TqTSSAj",
+    "episode_id": 287,
+    "instruction": "Turn around, go through the kitchen and up the stairs to the right. When at the top of the steps, turn to the left and go down the hallway. Top in front of the painting on the right wall. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "sKLMLpTHeUy",
+    "episode_id": 316,
+    "instruction": "Turn around and start to walk down the long pathway of wood floor. Once you are halfway past the bar, turn right and stop at the top of the stairs. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "vyrNrziPKCB",
+    "episode_id": 342,
+    "instruction": "Turn around and walk down the hall. Wait net to the foosball table. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "S9hNv5qa7GM",
+    "episode_id": 348,
+    "instruction": "Turn around and goo to the doorway on the far right of the living area, take a right and head towards the dining room table and stop. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "Vvot9Ly1tCj",
+    "episode_id": 367,
+    "instruction": "Walk through the living room area passed the couches and into the hallway in the corner of the room. Walk through the open double doors. Turn around and walk through the open door immediately next to the double doors. Walk into the open bedroom with wooden floors and a chandelier. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "b8cTxDM8gDG",
+    "episode_id": 386,
+    "instruction": "Turn around and exit the bedroom. Turn right and wait outside next to the welcome rug. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "759xd9YjKW5",
+    "episode_id": 420,
+    "instruction": "Turn around and walk towards the kitchen. Proceed through the kitchen into the room with the stationary bike and treadmill. Stop in front of the stationary bike. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "VFuaQ6m2Qom",
+    "episode_id": 437,
+    "instruction": "Turn around and walk toward the closet, veering to the right to go down the hall. Stop in the open glass doorway. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "S9hNv5qa7GM",
+    "episode_id": 443,
+    "instruction": "Turn around and exit the door to your right. Once out, turn left and walk across the kitchen. Turn right into the dining room and out the other side. Once out turn left and walk to the first door on your right. Stop once you enter the bedroom. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "aayBHfsNo7d",
+    "episode_id": 455,
+    "instruction": "Turn around and walk straight. Turn into the room on the left with the black desk and big window. Stop by the rug. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "aayBHfsNo7d",
+    "episode_id": 456,
+    "instruction": "Turn around and walk to the end of the long table with chairs. At the end turn left and enter the sitting room and stop. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "cV4RVeZvu5T",
+    "episode_id": 463,
+    "instruction": "Turn around and enter the house. Once inside, turn right and enter the door to the left. Turn left and go up to the top of the stairs. At the stop of the stairs, turn left and stop right in front of the door to the bedroom. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "5LpN3gDmAk7",
+    "episode_id": 465,
+    "instruction": "Turn around and exit on to the terrace. Cross the grey couches and turn left to enter the house gain. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "b8cTxDM8gDG",
+    "episode_id": 471,
+    "instruction": "Turn around and walk straight. Turn around and walk out of the bathroom and walk over towards the bedroom closet. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "b8cTxDM8gDG",
+    "episode_id": 472,
+    "instruction": "Turn around and go to the end of the hallway where the plant is and turn left to enter the bedroom. Once in the bedroom turn left to enter the bathroom. Stop in the doorway of the bathroom. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "8WUmhLawc2A",
+    "episode_id": 474,
+    "instruction": "Turn around and walk down the hallway. Turn left and Go into the bedroom on the left. Walk through the door in the corner to go into the bathroom. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "E9uDoFAP3SH",
+    "episode_id": 476,
+    "instruction": "Turn around and make a slight right turn through the doors, continue walking straight and go through the door that looks into the living room. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "sT4fr6TAbpF",
+    "episode_id": 480,
+    "instruction": "Turn around and enter the room with the round mirror on the wall. Enter the doorway directly ahead, then turn left and pass through the open doorway. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "sT4fr6TAbpF",
+    "episode_id": 481,
+    "instruction": "Turn around and exit the room. Pass the table and chairs and go through the doorway. Turn left into the next room and wait by the light switches. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "ac26ZMwG7aT",
+    "episode_id": 483,
+    "instruction": "Turn around and walk out the door to the left of the TV. Once out turn left and walk forward past the bookshelf and turn left.  Walk all the way down the hallway and into the door at the end. Stop once inside the closet. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "5q7pvUzZiYa",
+    "episode_id": 509,
+    "instruction": "Turn around and turn right by the bedroom. Go in the door immediately and go down the hall. Stop. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "5q7pvUzZiYa",
+    "episode_id": 511,
+    "instruction": "Turn around and walk into the bedroom. Walk out of the bedroom into the hallway. Stop just outside the bedroom. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "sT4fr6TAbpF",
+    "episode_id": 521,
+    "instruction": "Turn around and go to the right of the room divider, keep going all the way down past the chair on the right, and into the hallway on the right and stop. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "PX4nDJXEHrG",
+    "episode_id": 550,
+    "instruction": "Turn around and exit the bedroom. Walk to the other side of the room past the stairs. Once you reach the other side, turn right and enter the double doors. Walk into the small hallway and then enter the first door on your left. Once in, stop in front of the shower stall on your right. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "b8cTxDM8gDG",
+    "episode_id": 601,
+    "instruction": "Turn around and go up the stairs. Wait at the start of the second set of stairs by the switch on the wall. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "r47D5H71a5s",
+    "episode_id": 638,
+    "instruction": "Turn around and go passed the doorway on the right. Go to the second door and turn right then go all the way back to the bathroom. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "ULsKaCPVFJR",
+    "episode_id": 667,
+    "instruction": "Turn around and go down the long hallway. Turn the right corner, and turn left into the bathroom. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "gTV8FGcVJC9",
+    "episode_id": 691,
+    "instruction": "Turn around and go through the door. Turn left and go through the leftmost doorway and continue passed the vanity towards the bedroom and turn left. Stop right at the stairs. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "sT4fr6TAbpF",
+    "episode_id": 714,
+    "instruction": "Turn around and enter the house. Turn right after the oddly shaped chair on the right and wait by the light switch. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "ur6pFq6Qu1A",
+    "episode_id": 717,
+    "instruction": "Turn around, then head down the hallway on the left. Walk through the doorway and stop near the tiled column. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "aayBHfsNo7d",
+    "episode_id": 731,
+    "instruction": "Turn around and go to your right passed the living area and the stairs. Walk to the left of the table and turn left. Stop in the room with the book on the table. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "VzqfbhrpDEA",
+    "episode_id": 742,
+    "instruction": "Turn around and exit the shower. Turn right to enter the bathroom. Passed the tub and sink and stop near the tub and the two doorways. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "1pXnuDYAj8r",
+    "episode_id": 753,
+    "instruction": "Turn around, go left to the stairway, go down the stairs and straight, take a right through the hallway, and then another right at the next hallway, follow it to the end, and stop at a bedroom with two leaves on the wall just through the doorway. "
+  },
+  {
+    "split": "val_seen",
+    "scene_id": "mJXqzFtmKg4",
+    "episode_id": 775,
+    "instruction": "Turn around and walk straight ahead down the hallway in front of you. At the end, turn right to enter the room beside the door leading outside. Stop once you enter the door. "
+  },
+  {
+    "split": "val_seen_mini",
+    "scene_id": "5LpN3gDmAk7",
+    "episode_id": 465,
+    "instruction": "Turn around and exit on to the terrace. Cross the grey couches and turn left to enter the house gain. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 5,
+    "instruction": "Go up the stairs, and then turn around and go through the door past the stairs. Walk up to the bed, then turn to the right and walk into the doorway. Stop there. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 26,
+    "instruction": "Turn around 180 degrees.  Go down the hallway to the right.  Walk through the kitchen, past the island and stop as soon as you reach the table. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 29,
+    "instruction": "Turn around and go through the single door on the right.  Go down the hallway.  You'll go all the way into the room and stand on the rug and wait. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 54,
+    "instruction": "Turn around and go out of the room towards the clock.  Turn right and go down the hall past the kitchen counter.  At the end of the kitchen counter turn left and go past the kitchen to the hall and go slight left and straight through the door. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 65,
+    "instruction": "Turn around and walk past the heiroglypics picture.  Walk up the steps and when you get to the landing, turn and continue up 3 more steps and then wait. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 73,
+    "instruction": "Turn around and go past the dining area, turn to the right and past the couch.  Then go down the hall way a little bit and then turn left into the living room.  Stop right there and wait. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 108,
+    "instruction": "Walk into the bedroom and turn around the corner through the door with a hanging letter \"B\" near the door. Walk into the hallway and walk along the banister rail into the room on the right that has a human figured coat rack. Walk over the floor rug and into the doorway leading to the closet. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 115,
+    "instruction": "turn around and exit the closet. walk into the bedroom through the door on the right. turn left and go into the bathroom. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 118,
+    "instruction": "Turn around, turn left at closet door. Take another left at bedroom door. Stop inside the second bedroom doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 127,
+    "instruction": "Turn around 180 degrees.  Go through the open door to the loft.  Once through the doorway, turn to the left and walk towards the far side of the loft.  Stop once you are just past the opening to the stairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 128,
+    "instruction": "Turn around and leave the bathroom.  Go into the bedroom.  Turn left and go down the hallway to the left.  You'll stop by the big cabinet on the left. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 148,
+    "instruction": "Turn around and walk to the chair, then take a right. Walk past the bed, and across the hallway, and stop in the doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 150,
+    "instruction": "Turn around and walk to the end of the bed. At the end of the bed turn right and walk to the hallway. Once at the entrance way, walk through the hallway to the next room. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 169,
+    "instruction": "Enter the room and turn around to see the stairs. Go up the stairs, then take a right, and stop in the bedroom doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 184,
+    "instruction": "Turn around and go down the staircase.  Once down, go through the door that is straight but slightly to the right.  This room you enter will be a living room/den type of room.  Wait right at the entrance, by the couch. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "x8F5xyUWy9e",
+    "episode_id": 189,
+    "instruction": "turn around and go straight to the doorway and then go up the stairs by the tripod and stop right on the second step/. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "x8F5xyUWy9e",
+    "episode_id": 200,
+    "instruction": "Walk to the open door. Make a sharp right turn around the corner and walk through the open door into the room with grey tile. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 206,
+    "instruction": "Turn around. Walk down the long hallway until you reach the room with the red canopy bed. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 245,
+    "instruction": "Turn around and walk out of the bathrooom passing the bathtub and closet. Walk into the hallway and continue passed the stairwell and into the room on the opposite side with an open door and temperature controls on the wall next to the door. Walk into the room which has a bed with a striped pattern on the headboard. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 270,
+    "instruction": "Turn around and go up the stairs. Turn left and go up more stairs. Wait at the top of those stairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 336,
+    "instruction": "Turn around and exit the exercise room. Turn left and walk across the wooden hallway. Walk across the kitchen towards the doors the exit the house. Wait there. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "8194nk5LbLH",
+    "episode_id": 350,
+    "instruction": "Turn around on the stairs and go down them.  Then go past the couch, veer to the right and towards the kitchen.  Stop and wait by the big counter. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 369,
+    "instruction": "Turn around and walk out of the closet and take a right and walk out of the bedroom. Take a left and walk strauight. Wait in front of the couch. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 388,
+    "instruction": "Turn around where you stand and walk around to chair to your left and continue forward to the end of the wood counter to your right. Turn slightly to your right and walk past the pillar that is between the lamp and the stairs going down.  Stop between the pillar and the stairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 392,
+    "instruction": "Turn around and walk across the dining room area. Enter the leftmost doorway. Wait by the glass sign on the left. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 416,
+    "instruction": "Turn around and walk down the hallway. Turn left at the eye exam. Turn right to enter the kitchen. Stop at the sink. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 424,
+    "instruction": "Turn around. Walk forward, past the large cabinet on the right. Stop two feet in front of the end table which has three drawers. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 425,
+    "instruction": "Turn around so your facing the fireplace wall. Move forward through the sitting area and wait near the desk. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 434,
+    "instruction": "Turn around. Walk past the table on the right. Walk to the right out of the room. Turn left and walk towards the kitchen. Stop before the breakfast bar in the kitchen. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 439,
+    "instruction": "Turn around and walk through the door into the hallway. Turn left and go forward and stop next to the bed. Then turn left and go into the bathroom. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 461,
+    "instruction": "Turn around and walk past a wooden cabinet on the right.  Then turn to the right and walk in the bedroom.  Turn to the right again, and there will be a bathroom.  Stop right inside the doorway.  Wait there. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 463,
+    "instruction": "Turn around, go past the fridge, and then turn right and go up the steps.  Just when you get to the top of the steps, stop.  Wait there. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 482,
+    "instruction": "Turn around and walk out of the bathroom. Walk into the closet and wait there. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 487,
+    "instruction": "Turn around and walk out of the room. Wait at the top of the stairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 588,
+    "instruction": "Turn around. Go Straight through the doorway,. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 611,
+    "instruction": "Turn around and enter the bedroom straight ahead. Wait just inside the doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 625,
+    "instruction": "Wall through the room to the next set of doors. You will see a gray plaque saying \"SALA XVI\" on the floor to your left. If you don't, you went the wrong way. Turn around and go the correct way. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 701,
+    "instruction": "Turn around walk through the exercise room into the living room.  Wait by the Giraffi. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 702,
+    "instruction": "Turn around and exit the door into the workout room. Walk to the end of the first machine and turn left. Walk forward until you exit through the arch way into the living room. Stand so you are in the living room even with the right side of the archway . "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 721,
+    "instruction": "Turn around and go to your left. Then go through the doorway on your left. Then turn right by the island. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 758,
+    "instruction": "Turn around, walk past the first door, turn right into the second door, and walk forward through the door. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 769,
+    "instruction": "Turn around and go up the stairs. On the second landing go into the door on the left in front of you and stop on the rug by the book case. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 799,
+    "instruction": "turn around and walk down the hall. Then go halfway up the stairs and stand next to the second glass rose picture. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 822,
+    "instruction": "Turn around and walk out of the room into the hallway. Walk down the hallway and then turn left in the first hallway on on your left. Walk into the hallway and turn left into the kitchen storage area and stop right before you reach the sink. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 824,
+    "instruction": "Turn around and walk down the red rug and cross the room. Stop once you enter the next room and stop. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 849,
+    "instruction": "Turn around and turn right in the doorway after the set of red chairs. Wait just outside this same doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 883,
+    "instruction": "Turn around and then turn right to walk all the way down the stairs. Stop at the bottom of the stairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 900,
+    "instruction": "Turn around and exit the bathroom. Once out turn left and head towards the sitting area. Once you reach that area turn left and enter the door to your right, beside the desk. Stop once you are in the doorway of the room. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 903,
+    "instruction": "Turn around and walk across the patio to the other side. Stop on the other side of the white table facing the yard and the brick wall. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "x8F5xyUWy9e",
+    "episode_id": 951,
+    "instruction": "Turn around and walk up both sets of stairs. Take a right into the massage room and wait there. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 956,
+    "instruction": "Turn around and exit the kitchen. Turn right and then another right to enter into the bedroom. Wait in the bedroom doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "x8F5xyUWy9e",
+    "episode_id": 974,
+    "instruction": "Turn around and walk into the room with the pool. Walk down the stairs and wait at the bottom of the stairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 988,
+    "instruction": "Turn around with your back facing the bath tub. Walk forwards through the rounded entry way towards the two tan colored picture frames. Turn right in front of the frames, Walk past the piano. Continue walking towards the table with the clay vase. and plants. Stop right in front of the table in front of the clay vase. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 989,
+    "instruction": "Turn around and then turn right. Go passed the piano and stop near the table. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 999,
+    "instruction": "Turn around and enter the hallway. Then walk down the stairs. Stand near the front door. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 1000,
+    "instruction": "Turn around and exit the room. Turn left and exit the room on the left. Then Stop in the doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1007,
+    "instruction": "Turn around and walk towards the large clock. Once you reach the clock, turn right and walk through the doorway. Once out, enter the doorway to the left of the bench. Walk forward and enter the entry way made out of wood. Stop once you reach the large table and chairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1024,
+    "instruction": "Turn around and walk across the room and exit. Once out, walk forward and turn right when you reach the bookcase to your left. Turn left and walk through the kitchen storage area and through the kitchen and stop when you reach the end of the counter. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1035,
+    "instruction": "Turn around and go to the left. Turn right and cross through the kitchen. At the end of the hallway stop. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1048,
+    "instruction": "Turn around, walk towards the hallway and past the rug, continue to the top of the steps near the mirror and stop. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "x8F5xyUWy9e",
+    "episode_id": 1051,
+    "instruction": "Turn around and exit the doorway. Turn left and exit the door. Stop next to the pool. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 1057,
+    "instruction": "Turn around and walk all the way through the next room. Enter the doorway straight ahead and stop once you enter and there are chairs on both sides of you. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 1091,
+    "instruction": "Turn around and go up the stairs. Turn right and stop just passed the bottom of the stairs with carpet. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1096,
+    "instruction": "Turn around and walk straight forward down the hallway all the way to the other end. Once you reach the end turn left and stop in the doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 1104,
+    "instruction": "Turn around and go through the door. Turn right and continue down the red carpet. Stop at the end of the hall and the door. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1136,
+    "instruction": "Turn around and exit the pantry. Cross from the counter to the patio and stop. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1138,
+    "instruction": "Turn around and go through the archway. Turn to the left of the door and stop in the bathroom. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1159,
+    "instruction": "Turn around and enter the house. Once inside, walk across the room and out the last door on the right. Once you walk into this room, turn left and walk through the door to the right of the fireplace. Stop in the doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1166,
+    "instruction": "Turn around and go straight into the kitchen. Go straight and stop by the table near the window. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 1173,
+    "instruction": "Turn around and exit the room out the double white doors and turn left. At the vases turn left and stop when you are beside the bottom of the steps. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 1175,
+    "instruction": "Turn around and walk into the bedroom. Once in the bedroom, turn left and exit the bedroom into the hallway. Walk to the end of the of the hallway. and turn right. Walk into the bedroom straight ahead and stop. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1180,
+    "instruction": "Turn around and exit out the door to the far right of the bed. Once out, Walk down the hallway. Once you get to where the hallway opens up, turn left and walk past the stairs. Stop looking into the next door to your left facing the sitting room. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1182,
+    "instruction": "Turn around and exit the room. Leave through the hallway and pass the painting. Turn left and exit the hallway. Turn left and stop. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1189,
+    "instruction": "Turn around and go left passed the table and chairs. Go through the door, and stop by the door mat to the next door. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1196,
+    "instruction": "Turn around, walk out the door on the right, and walk across the hall into the bedroom on the left. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1207,
+    "instruction": "Turn around and walk to the right to enter the hallway. Go all the way down the hallway to the end and turn right. Stop once you enter the room. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1209,
+    "instruction": "Turn around and enter hall on right. Go forward down hallway until you reach flowers. Turn right and enter. Stop once entered. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1214,
+    "instruction": "Turn around and go through the archway. Turn left and take the extreme left. Stop near the mantle. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 1217,
+    "instruction": "Turn around and continue through the door. Turn right and then turn left to follow the red carpet. Stop in the entryway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1240,
+    "instruction": "Turn around and walk towards the bookshelf. Once you reach the bookshelf turn right and walk down the hallway to the end and turn right. Stop at when you reach the narrow table. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 1252,
+    "instruction": "Turn around and walk up onto the patio. Walk into the door to the left and enter the sitting room. Walk across the sitting room and into the kitchen. Stop before you reach the steps. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 1260,
+    "instruction": "Turn around and walk towards the stairs. Walk down the first flight of stairs. Continue down the second flight of stairs and stop in the middle of the little hallway at the bottom of the stairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 1279,
+    "instruction": "Turn around and exit the double doors on the left. Walk out past the stairs and turn left. Enter the room straight ahead at the end. Walk into the room and then turn into the bathroom door on the right and stop. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 1317,
+    "instruction": "Turn around and enter the sitting room to your right. Walk in front of the fireplace to the other side and stop once you reach the pool table. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1328,
+    "instruction": "Turn around and walk through the doorway. Turn right and walk across the hall and wait by the small table just before the dining room entrance. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1339,
+    "instruction": "Turn around and walk through the small archway, turn hard right, then stop and wait in the hallway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1340,
+    "instruction": "Turn around and enter the small doorway to your left beside the vase. Once you enter, turn right and enter the first door on your right beside the stairs. Stop in the entryway. . "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1341,
+    "instruction": "Turn around and walk through the doorway to the left of the vase on the floor. Once in the room turn right and enter the door to the right of the stairs. Stop in the doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 1344,
+    "instruction": "Turn around and walk down the stairs. Wait in the entry way of the living area on the right. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 1367,
+    "instruction": "Turn around and walk across the kitchen. When you reach the stove, turn left and exit the room into the dining room. Walk past the table and stop at the other end. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1381,
+    "instruction": "Turn around and walk towards the large clock. Once you reach the clock, turn left and enter the bedroom. Walk straight across the bedroom and into the small door in front of you. Stop once you enter the closet. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1387,
+    "instruction": "Turn around and turn right. Wait next to the blue couch that is on the right. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1422,
+    "instruction": "Turn around and exit the room to the right of the TV. Once out turn left and walk to the end of the hallway and then turn right. Walk down the hallway past the piano and then stop when you enter the next doorway and the floor is in a circle pattern. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1439,
+    "instruction": "Turn around and go towards the bed. Turn left and enter the bathroom. Stop in front of the sink. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 1452,
+    "instruction": "Turn around and exit out the door on the left. Walk all the way down until you reach the green steps. At the steps, turn right and enter the door to the left. Stop once you reach the table. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "pLe4wQe7qrG",
+    "episode_id": 1483,
+    "instruction": "Turn around and walk along the wooden hallway.Wait the the wooden doorway. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 1492,
+    "instruction": "Turn around and walk out the double doors. Go across the next room and out the door. Stop once you enter the next room with tile floor. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 1512,
+    "instruction": "Turn around and exit the room. Walk through the next doorway and then turn left. Walk down the stairs and stop on the platform with the white door. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "2azQ1b91cZZ",
+    "episode_id": 1527,
+    "instruction": "Turn around and exit into the hallway. Turn right and enter the next room. Turn left and walk to the other side of the kitchen. Once you walk pass the kitchen, turn in the first door to the right and stop once you reach the long table with chairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 1530,
+    "instruction": "Turn around and exit the room. Once out turn left and walk towards the steps. At the large black steps, turn left and walk down the few small wood steps and stop at the bottom. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 1536,
+    "instruction": "Turn around and go down the stairs next to the foot of the bed. Stop at the bottom of the stairs. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 1540,
+    "instruction": "Turn around and head up the stairs to the first landing and continue to the second landing. Wait near the statue. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "zsNo4HB9uLZ",
+    "episode_id": 1549,
+    "instruction": "Turn around and go passed the couch, then turn left and take an immediate right passed the painting. Turn left and go straight through the first door on the left. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 1557,
+    "instruction": "Turn around and go passed the dining room table. Enter the doors next to the red chairs. Go down the hallway and enter the doors on the right. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 1611,
+    "instruction": "Turn around and go down the stairs. Turn right at the bottom of the stairs and then go into the room with the rug and the table. Stop here. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 1659,
+    "instruction": "Turn around, go to the end of the ropes, and stop just over the white line. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 1662,
+    "instruction": "Turn around and go to the staircase. Go around the stairs to the left and stop in the bedroom. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 1672,
+    "instruction": "Turn around, start going up steps, stop before last flight of steps. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1701,
+    "instruction": "Turn around and go to your right. Turn right and go passed the painting. Then go left to go into the bar area. Pass the bar and go towards the dining table. Stop in the dining room near the table. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1706,
+    "instruction": "Turn around and walk through the kitchen. Continue through the hallway to the dining room. Stop between the dining table and the pink sofa. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1707,
+    "instruction": "Turn around facing room with chandelier. Go through hallway between island and stove, walk to the left, towards first dining room, then through there towards second dining room. Take a few steps then stop at the rug. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 1709,
+    "instruction": "Turn around and go down the hall on the left of the stairs. Go towards the pots and stop next to the large double doors. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 1796,
+    "instruction": "Turn around and walk up the stairs to the landing. Walk into the room on the left that has the two sofas. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "X7HyMhZNoso",
+    "episode_id": 1797,
+    "instruction": "Turn around and go towards the door. Then turn right and go into the entryway and stop by the table. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "QUCTc6BB5sX",
+    "episode_id": 1806,
+    "instruction": "Turn around and go passed the refridgerator. Turn right and go through the door. Stop near the large table. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "EU6Fwq7SyZv",
+    "episode_id": 1812,
+    "instruction": "Turn around and head down the stairs.  Then walk to the open white door and stand in the doorway. Wait by the sink. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "TbHJrupSAjP",
+    "episode_id": 1824,
+    "instruction": "Enter the doorway to your left. Walk straight down the hallway and turn right when you reach the double doors. At the door leading outside turn around and walk up 3 stairs and stop. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "oLBMNvg9in8",
+    "episode_id": 1825,
+    "instruction": "Turn around and  walk up the stairs. Wait in the room with the red carpet and book shelves. "
+  },
+  {
+    "split": "val_unseen",
+    "scene_id": "Z6MFQCViBuw",
+    "episode_id": 1839,
+    "instruction": "Turn around and exit the room. Once out, turn right and keep walking straight until you enter the room on the end. Stop once you enter the room. "
+  }
+]
