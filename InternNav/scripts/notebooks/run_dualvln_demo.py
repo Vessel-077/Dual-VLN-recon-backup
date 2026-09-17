@@ -32,7 +32,7 @@ def parse_args():
     p = argparse.ArgumentParser(description="Run InternVLA-N1-DualVLN offline inference demo and export a video.")
     p.add_argument("--repo-root", type=str, default="../../",
                     help="Path to the InternNav repo root (default: ../../, i.e. run from scripts/notebooks/)")
-    p.add_argument("--model-path", type=str, required=True,
+    p.add_argument("--model-path", type=str, default="../../checkpoints/InternVLA-N1-DualVLN",
                     help="Path to the downloaded InternVLA-N1-DualVLN checkpoint directory")
     p.add_argument("--scene-dir", type=str, default=None,
                     help="Path to a scene folder with debug_raw_*.jpg + instruction.txt "

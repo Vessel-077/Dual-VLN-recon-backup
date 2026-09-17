@@ -577,6 +577,12 @@ class HabitatVLNEvaluator(DistributedEvaluator):
                             cv2.circle(vis, (pixel_goal[0], pixel_goal[1]), radius=8, color=(255, 0, 0), thickness=-1)
                     vis_writer.append_data(vis)
 
+                    # ---- ADDED: also dump this annotated frame as a standalone PNG ----
+                    if os.environ.get("INTERNNAV_SAVE_FRAMES"):
+                        frames_dir = os.path.join(debug_dir, f'{scene_id}_{episode_id:04d}_frames')
+                        os.makedirs(frames_dir, exist_ok=True)
+                        Image.fromarray(vis).save(os.path.join(frames_dir, f'step_{step_id:04d}.png'))
+
                 if pure_cam_writer is not None:
                     pure_cam_writer.append_data(np.asarray(save_raw_image))
 
@@ -900,6 +906,12 @@ class HabitatVLNEvaluator(DistributedEvaluator):
                     if draw_pixel_goal:
                         cv2.circle(vis, (pixel_goal[0], pixel_goal[1]), radius=8, color=(255, 0, 0), thickness=-1)
                     vis_writer.append_data(vis)
+
+                    # ---- ADDED: also dump this annotated frame as a standalone PNG ----
+                    if os.environ.get("INTERNNAV_SAVE_FRAMES"):
+                        frames_dir = os.path.join(debug_dir, f'{scene_id}_{episode_id:04d}_frames')
+                        os.makedirs(frames_dir, exist_ok=True)
+                        Image.fromarray(vis).save(os.path.join(frames_dir, f'step_{step_id:04d}.png'))
 
                 if action == action_code.LOOKDOWN:
                     self.env.step(action)
